@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjercicioClase5_22121</string>
+    <string name="button_indice">Filtro por índice</string>
+    <string name="button_instancia">Filtro por Instancia</string>
+    <string name="button_ascendente">Filtro ascendente</string>
+    <string name="filtros_para_listas">Filtros para listas</string>
+</resources>
